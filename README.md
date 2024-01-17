@@ -29,12 +29,12 @@ You can read instructions below to learn performing gestures to interact with VP
   Perform gestures as [function selection](https://www.bilibili.com/video/BV1eW4y1w71t/).
 * Main Task
 
-  To use 3 functions, perform gestures as [Pen up Pen down]().
+  To use 3 functions, perform gestures as [Pen up Pen down](https://www.bilibili.com/video/BV1K94y1K7DD/?vd_source=cd0764e6da97a83655f4eafba9e5abe6).
 * Auxiliary Task
 
-  To adjust the thickness of the painter/eraser or change the color, perform gestures as [microgestures]()
+  To adjust the thickness of the painter/eraser or change the color, perform gestures as [microgestures]().
 ### 3. Start Painting
 Run `python AiVirtualPainter.py` in the terminal to start.
 Make sure your hand **50cm~60cm** away from camera!
 ## 3. Materials
-A more detailed example video [here]()
+A more detailed example video [here](https://www.bilibili.com/video/BV1zw4117781/).
