@@ -26,10 +26,15 @@ You can read instructions below to learn performing gestures to interact with VP
   >
   >In eraser, you can erase the existing content.
   
-  Perform gestures as 
+  Perform gestures as [function selection](https://www.bilibili.com/video/BV1eW4y1w71t/).
 * Main Task
-* 
+
+  Draw 
 * Auxiliary Task
+
+  
 ### 3. Start Painting
+Run `python AiVirtualPainter.py` in the terminal to start.
+Make sure your hand **50cm~60cm** away from camera!
 ## 3. Materials
-A more detailed example video ![here]()
+A more detailed example video [here]()
