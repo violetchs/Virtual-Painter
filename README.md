@@ -20,10 +20,14 @@ You can read instructions below to learn performing gestures to interact with VP
 * Function Selection
   VP has 3 main functions :**draw**, **select bbox**, **eraser**.
   >In draw, you can draw a picture.
+  >
   >In select bbox, you can copy the content of the region into target region or delete it.
+  >
   >In eraser, you can erase the existing content.
-  Perform gesture 
+  Perform gestures as 
 * Main Task
+* 
 * Auxiliary Task
 ### 3. Start Painting
 ## 3. Materials
+A more detailed example video ![here]()
