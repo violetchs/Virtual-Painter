@@ -18,12 +18,14 @@ mediapipe==0.10.9
 ### 2. How to paint
 You can read instructions below to learn performing gestures to interact with VP.
 * Function Selection
+  
   VP has 3 main functions :**draw**, **select bbox**, **eraser**.
   >In draw, you can draw a picture.
   >
   >In select bbox, you can copy the content of the region into target region or delete it.
   >
   >In eraser, you can erase the existing content.
+  
   Perform gestures as 
 * Main Task
 * 
